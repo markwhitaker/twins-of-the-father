@@ -44,7 +44,16 @@ export function decodeEntities(str) {
     .replace(/&apos;/g, "'");
 }
 
+function autop(text) {
+  if (/<(?:p|div|blockquote|ul|ol|h[1-6])\b/i.test(text)) return text;
+  return text
+    .split(/\r?\n\r?\n+/)
+    .filter(p => p.trim())
+    .map(p => `<p>${p.replace(/\r?\n/g, '<br />')}</p>`)
+    .join('\n');
+}
+
 export function buildMarkdown(html) {
   if (!html) return '';
-  return td.turndown(html);
+  return td.turndown(autop(html));
 }

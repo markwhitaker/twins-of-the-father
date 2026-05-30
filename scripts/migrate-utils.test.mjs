@@ -112,4 +112,17 @@ describe('buildMarkdown', () => {
     expect(buildMarkdown('')).toBe('');
     expect(buildMarkdown(undefined)).toBe('');
   });
+  it('preserves paragraph breaks from double newlines (WordPress plain-text format)', () => {
+    const result = buildMarkdown('First paragraph.\n\nSecond paragraph.\n\nThird paragraph.');
+    expect(result).toContain('First paragraph.');
+    expect(result).toContain('Second paragraph.');
+    expect(result).toContain('Third paragraph.');
+    expect(result).toMatch(/First paragraph\.\n\nSecond paragraph\./);
+  });
+  it('does not double-wrap content that already has p tags', () => {
+    const result = buildMarkdown('<p>Already wrapped.</p>\n<p>Second.</p>');
+    expect(result).toContain('Already wrapped.');
+    expect(result).toContain('Second.');
+    expect(result).not.toContain('<p>');
+  });
 });

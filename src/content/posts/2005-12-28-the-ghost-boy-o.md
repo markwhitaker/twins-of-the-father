@@ -6,4 +6,21 @@ tags: ["Funny", "Pictures"]
 draft: false
 ---
 
-Before Christmas, Nicola and I went to see Hannah and Lauren's school play – a charming production entitled The Bossy Christmas Fairy. We were on the second row from the front and I had my camera with me. Hannah and Lauren's class were on stage, and I was taking pictures. Neither of us saw anything strange at the time, although I do distinctly remember, at one point, feeling a strange chill pass over the back of my neck. Unusual, I thought, for a December day, with the main door to the playground ajar behind us, but at the time I thought no more about it. It was some days before I got a chance to have my roll of film developed. (Just run with me on this one, OK?) I returned to the chemist's days later to pick up the photos, and again, I felt the same eerie chill, just as I opened the door to leave. At the time, of course, I thought nothing of it. I returned home and made myself a cup of tea. I took it with me into my study, lit a cigar and peeled open the film developer's envelope. At that precise moment I felt a most unsettling chill run right down my spine, back up again, then back down again. Of course, at the time I thought etc etc. And then, leafing through the photos I came to this one: ![THE GHOST BOY!!](/images/father/ghostboy.jpg) I need hardly tell you how startled I was by the image of the little boy, pale and ghostly, going the opposite way to everyone else... _DISEMBODIED!!!_ Once I had poured a glass of port and composed myself, I telephoned the school. In quivering tones I asked the secretary my question and after a few moments she returned with the answer. The answer I had been dreading. I barely had the breath to thank her before hanging up. In the school, in that very room, on that very stage - one year to the day before I took my photograph..... _there had been a school play_. And yes, a little boy had appeared in it. Several, in fact, at least one of whom, I have no doubt, ventured at some point from the left end of the stage to the right... Of course, at the time, I thought nothing of it.
+Before Christmas, Nicola and I went to see Hannah and Lauren's school play – a charming production entitled The Bossy Christmas Fairy. We were on the second row from the front and I had my camera with me.
+
+Hannah and Lauren's class were on stage, and I was taking pictures. Neither of us saw anything strange at the time, although I do distinctly remember, at one point, feeling a strange chill pass over the back of my neck. Unusual, I thought, for a December day, with the main door to the playground ajar behind us, but at the time I thought no more about it.
+
+It was some days before I got a chance to have my roll of film developed. (Just run with me on this one, OK?) I returned to the chemist's days later to pick up the photos, and again, I felt the same eerie chill, just as I opened the door to leave. At the time, of course, I thought nothing of it.
+
+I returned home and made myself a cup of tea. I took it with me into my study, lit a cigar and peeled open the film developer's envelope. At that precise moment I felt a most unsettling chill run right down my spine, back up again, then back down again. Of course, at the time I thought etc etc.
+
+And then, leafing through the photos I came to this one:  
+![THE GHOST BOY!!](/images/father/ghostboy.jpg)
+
+I need hardly tell you how startled I was by the image of the little boy, pale and ghostly, going the opposite way to everyone else... _DISEMBODIED!!!_
+
+Once I had poured a glass of port and composed myself, I telephoned the school. In quivering tones I asked the secretary my question and after a few moments she returned with the answer. The answer I had been dreading. I barely had the breath to thank her before hanging up.
+
+In the school, in that very room, on that very stage - one year to the day before I took my photograph..... _there had been a school play_. And yes, a little boy had appeared in it. Several, in fact, at least one of whom, I have no doubt, ventured at some point from the left end of the stage to the right...
+
+Of course, at the time, I thought nothing of it.
