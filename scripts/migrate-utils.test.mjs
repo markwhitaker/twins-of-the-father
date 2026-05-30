@@ -21,6 +21,9 @@ describe('getText', () => {
   it('coerces other values to string', () => {
     expect(getText(42)).toBe('42');
   });
+  it('returns empty string for an object without __cdata', () => {
+    expect(getText({ someKey: 'x' })).toBe('');
+  });
 });
 
 describe('extractCategories', () => {

@@ -6,9 +6,9 @@ const td = new TurndownService({
 });
 
 export function getText(node) {
-  if (!node && node !== 0) return '';
+  if (node === null || node === undefined) return '';
   if (typeof node === 'string') return node;
-  if (node.__cdata !== undefined) return node.__cdata;
+  if (typeof node === 'object') return node.__cdata !== undefined ? node.__cdata : '';
   return String(node);
 }
 
@@ -16,7 +16,7 @@ export function extractCategories(categories) {
   if (!Array.isArray(categories)) return [];
   return categories
     .filter(c => c['@_domain'] === 'category')
-    .map(c => getText(c));
+    .map(c => getText(c.__cdata));
 }
 
 export function buildFilename(date, slug) {
