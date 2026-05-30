@@ -1,0 +1,22 @@
+---
+import '@pagefind/default-ui/css/ui.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Search — Twins of the Father">
+  <div class="mt-8">
+    <h1 class="text-2xl font-bold text-stone-900 mb-6">Search</h1>
+    <div id="search"></div>
+  </div>
+</BaseLayout>
+
+<script>
+  import { PagefindUI } from '@pagefind/default-ui';
+
+  const ui = new PagefindUI({ element: '#search', showSubResults: true });
+
+  const params = new URLSearchParams(window.location.search);
+  const query = params.get('q');
+  if (query) {
+    ui.triggerSearch(query);
+  }
+</script>
