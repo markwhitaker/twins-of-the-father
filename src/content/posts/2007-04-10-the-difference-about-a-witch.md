@@ -20,10 +20,10 @@ I can't believe it's been so long since [I last shared the girls' jokes with you
 **Me:** Between.<br/>
 **Hannah:** Stop interrupting Lauren, Daddy.<br/>
 **Me:** Shush, Hannah.<br/>
-**Lauren:** ..._b__etween_ a _witch_ and... erm...<br/>
+**Lauren:** ..._between_ a _witch_ and... erm...<br/>
 **Hannah:** A biscuit!<br/>
 **Lauren/Me: HANNAH!!**<br/>
-**Lauren:** Hang on, it's on my joke book... _\[fetches joke book\]_... Oh yeah, right: what's the difference between a wizard and the letters K, A, S, M and E?<br/>
+**Lauren:** Hang on, it's in my joke book... _\[fetches joke book\]_... Oh yeah, right: what's the difference between a wizard and the letters K, A, S, M and E?<br/>
 **Me:** I don't know.<br/>
 **Lauren:** One makes spells and the other spells MAKES!
 
