@@ -8,4 +8,4 @@ draft: false
 
 After a busy day, doesn't something like this make it all doubly worthwhile? :-)
 
-![A sleepy cuddle](http://bitrot.net/father/wp-content/uploads/2007/01/sleepy.jpg)
+![A sleepy cuddle](https://twins.bitrot.net/wp-content/uploads/2007/01/sleepy.jpg)

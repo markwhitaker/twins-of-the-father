@@ -6,7 +6,7 @@ tags: ["Funny", "Maddening", "Trouble with words"]
 draft: false
 ---
 
-I can't believe it's been so long since [I last shared the girls' jokes with you](http://bitrot.net/father/2006/03/05/two-jokes/) (over a year now!). Time to make amends with an absolute belter from Lauren this morning.
+I can't believe it's been so long since [I last shared the girls' jokes with you](https://twins.bitrot.net/two-jokes/) (over a year now!). Time to make amends with an absolute belter from Lauren this morning.
 
 **Lauren:** Daddy, do you want to hear a really bad joke?  
 **Me:** OK.  

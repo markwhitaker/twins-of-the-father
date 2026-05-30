@@ -6,7 +6,7 @@ tags: ["AAARGHH! GET ME OUT OF HERE!!", "Growing up"]
 draft: false
 ---
 
-I knew this [whole Grease thing](http://bitrot.net/father/2006/10/07/daddy-whats-a-pussy-wagon/) was a bad idea.
+I knew this [whole Grease thing](https://twins.bitrot.net/daddy-whats-a-pussy-wagon/) was a bad idea.
 
 Hannah and Lauren are having an unexpected day off today due to a burst water main at school. We've also brought one of their class mates home with us, so I'm working upstairs while the three girls play in the living room.
 

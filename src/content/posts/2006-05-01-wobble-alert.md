@@ -6,7 +6,7 @@ tags: ["Growing up", "Pictures"]
 draft: false
 ---
 
-**![Can you see them wobbling?](http://bitrot.net/father/wp-content/uploads/2007/01/teeth.jpg)Breaking news: Hannah and Lauren both appear to have wobbly teeth!**
+**![Can you see them wobbling?](https://twins.bitrot.net/wp-content/uploads/2007/01/teeth.jpg)Breaking news: Hannah and Lauren both appear to have wobbly teeth!**
 
 There's a distinct lack of rigidity to the lower front teeth of each twin. Further news here as it breaks.
 

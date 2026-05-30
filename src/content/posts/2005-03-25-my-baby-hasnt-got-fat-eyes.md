@@ -6,7 +6,7 @@ tags: ["AAARGHH! GET ME OUT OF HERE!!", "Double trouble", "Funny", "Girls will b
 draft: false
 ---
 
-Another little faux-innocent needling session is going on as I type, on a par with the "[STOP CURTSYING!](http://bitrot.net/father/2005/02/24/stop-curtsying/)" incident. They're mostly mumbling, so my attention was only drawn to it when Hannah shouted angrily, "NO, LAUREN! MY BABY HASN'T GOT FAT EYES!" The conversation went on something like this:
+Another little faux-innocent needling session is going on as I type, on a par with the "[STOP CURTSYING!](https://twins.bitrot.net/stop-curtsying/)" incident. They're mostly mumbling, so my attention was only drawn to it when Hannah shouted angrily, "NO, LAUREN! MY BABY HASN'T GOT FAT EYES!" The conversation went on something like this:
 
 **Me:** Lauren, stop annoying Hannah.  
 **Hannah:** But Daddy, but she said my baby has got fat eyes!  

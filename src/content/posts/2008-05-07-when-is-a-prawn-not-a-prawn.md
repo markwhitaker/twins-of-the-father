@@ -6,7 +6,7 @@ tags: ["Funny", "Trouble with words"]
 draft: false
 ---
 
-The girls continue to hone their [joke-telling skills](http://bitrot.net/father/tag/jokes/), using me as their unfortunate foil. This morning's selection came once again from Lauren.
+The girls continue to hone their [joke-telling skills](https://twins.bitrot.net/tags/jokes/), using me as their unfortunate foil. This morning's selection came once again from Lauren.
 
 **Joke 1**  
 Q. How do you make anti-freeze?  
