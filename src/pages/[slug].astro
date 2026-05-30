@@ -3,20 +3,32 @@ import { getCollection } from 'astro:content';
 import PostLayout from '../layouts/PostLayout.astro';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('posts', ({ data }) => !data.draft);
-  return posts.map(post => ({
+  const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+  const posts = allPosts.sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
+
+  return posts.map((post, index) => ({
     params: { slug: post.slug },
-    props: { post },
+    props: {
+      post,
+      prevPost: index > 0
+        ? { title: posts[index - 1].data.title, slug: posts[index - 1].slug }
+        : undefined,
+      nextPost: index < posts.length - 1
+        ? { title: posts[index + 1].data.title, slug: posts[index + 1].slug }
+        : undefined,
+    },
   }));
 }
 
-const { post } = Astro.props;
+const { post, prevPost, nextPost } = Astro.props;
 const { Content } = await post.render();
 ---
 <PostLayout
   title={post.data.title}
   date={post.data.date}
   tags={post.data.tags}
+  prevPost={prevPost}
+  nextPost={nextPost}
 >
   <Content />
 </PostLayout>
