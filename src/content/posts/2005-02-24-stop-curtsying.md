@@ -1,0 +1,9 @@
+---
+title: "&#8220;STOP CURTSYING!&#8221;"
+date: 2005-02-24
+slug: "stop-curtsying"
+tags: ["AAARGHH! GET ME OUT OF HERE!!", "Blog News", "Double trouble", "Funny", "Maddening"]
+draft: false
+---
+
+I was trying to get the girls out of the house this morning for school. It's a mission at the best of times, but today it's snowing which means (a) they're extra-excited, and (b) they need more layers applying before we can leave. As I was trying to get their woolly hats on without disturbing their hair bobbles, and guide twenty wriggly fingers into four pairs of over-sized gloves, they fell effortlessly into one of those modes where one of them does something perfectly harmless just to piss the other one off. Picture the scene: the hall of our house is approximately 2m square and contains two doorways, a cupboard, a wooden chest, the bottom of a flight of stairs, me, two small girls and around 300 pairs of shoes. I'm stumbling around trying to zip up coats, apply hats etc. Lauren, now fully equipped and ready to go, is standing right in front of Hannah, wearing a butter-wouldn't-melt expression and bobbing up and down holding her skirt. Hannah, who I am trying to get ready, is ignoring all my barked commands because she's too busy stamping her foot and shouting "LAUREN! STOP CURTSYING!!!" The only thing that gets me through moments like this without having to go for a nice lie down is the fact that I know Simon and I were just the same, if not much worse, when we were that age. We'd use anything to annoy each other, and it was always something innocuous so that the one doing the annoying could shrug innocently at Mum and Dad when it came to the hour of reckoning. I'm just disappointed at our lack of range that we never thought of curtsying. Hence this blog. It's therapy, really. Please bear with me.
