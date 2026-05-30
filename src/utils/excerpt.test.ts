@@ -27,4 +27,8 @@ describe('getExcerpt', () => {
     const short = 'Short post content here.';
     expect(getExcerpt(short)).toBe('Short post content here.');
   });
+  it('strips ATX heading markers but preserves # in other contexts', () => {
+    expect(getExcerpt('# Hello world')).toBe('Hello world');
+    expect(getExcerpt('## Section two')).toBe('Section two');
+  });
 });
