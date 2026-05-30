@@ -7,7 +7,7 @@ import { getExcerpt } from '../utils/excerpt';
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const posts = allPosts.sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
 ---
-<BaseLayout title="Twins of the Father">
+<BaseLayout title="The Twins of the Father">
   <div class="mt-8">
     {posts.map(post => (
       <PostCard
