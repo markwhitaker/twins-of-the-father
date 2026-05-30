@@ -10,33 +10,33 @@ Hannah and Lauren have discovered the joys of playing the classic children's gam
 
 For the record, here's how a normal game of Guess Who goes:
 
-**Player 1:** Does your person have a beard?  
-**Player 2:** Yes.  
-_Player 1 knocks down all people without beards._  
-**Player 2:** Does your person have red hair?  
-**Player 1:** No.  
+**Player 1:** Does your person have a beard?<br/>
+**Player 2:** Yes.<br/>
+_Player 1 knocks down all people without beards._<br/>
+**Player 2:** Does your person have red hair?<br/>
+**Player 1:** No.<br/>
 _Player 2 knocks down all people with red hair._
 
 And so on. But who wants to play like that... when you could play like _this_?
 
-**Hannah:** Does your person haaaaaaave... \[long pause\]... a beard or a moustache?  
-**Lauren:** A moustache.  
-**Me:** No, Lauren, just say yes or no!  
-**Lauren:** OK, no.  
-**Nicola:** You mean yes?  
-**Lauren:** Yes. A yellow moustache.  
-_I hang my head in despair._  
-**Nicola:** Right, come on Hannah.  
-**Hannah:** Sooo... moustaches... down?  
-**Nicola:** No, think - their person _has_ got a moustache. So...  
-**Hannah:** So people... _without_ moustaches... stay _up_?  
-**Nicola:** No, they go down.  
-**Hannah:** Oh yeah!  
-_Hannah and Nicola knock down the moustaches. I suspect Nicola's knocking down the non-yellow ones too._  
-**Me:** Right, our go Lauren.  
-**Lauren:** Has your person got a bit of a funny face?  
+**Hannah:** Does your person haaaaaaave... \[long pause\]... a beard or a moustache?<br/>
+**Lauren:** A moustache.<br/>
+**Me:** No, Lauren, just say yes or no!<br/>
+**Lauren:** OK, no.<br/>
+**Nicola:** You mean yes?<br/>
+**Lauren:** Yes. A yellow moustache.<br/>
+_I hang my head in despair._<br/>
+**Nicola:** Right, come on Hannah.<br/>
+**Hannah:** Sooo... moustaches... down?<br/>
+**Nicola:** No, think - their person _has_ got a moustache. So...<br/>
+**Hannah:** So people... _without_ moustaches... stay _up_?<br/>
+**Nicola:** No, they go down.<br/>
+**Hannah:** Oh yeah!<br/>
+_Hannah and Nicola knock down the moustaches. I suspect Nicola's knocking down the non-yellow ones too._<br/>
+**Me:** Right, our go Lauren.<br/>
+**Lauren:** Has your person got a bit of a funny face?<br/>
 **Hannah:** Yes!
 
 Give me strength...
 
-![So... beards down?](http://photos13.flickr.com/19709999_dc513310bc_m.jpg)
+![So... beards down?](../../images/2005-06-01-guess-who.jpg)

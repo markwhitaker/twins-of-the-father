@@ -10,16 +10,16 @@ As you can see from the picture on the right, Hannah and Lauren have lovely long
 
 Every morning, then, we go through the same basic conversation:
 
-**H/L:** Ow Daddy! Ow! Ow! It's _hurting_!  
-**Me:** Keep still! I'll be finished soon! _\[combs faster\]_  
-**H/L:** OW-_WUH_! _\[starts crying\]_  
-**Me:** Nearly done. How do you get all this sticky stuff in your hair anyway?  
-**H/L:** _\[tearful\]_ I don't know, Daddy!  
-**L/H:** _\[i.e. sister of the combee\]_ I didn't do it...  
-**Me:** Well girls, if you want to have such lovely hair you've got to keep it away from sticky things, OK?  
-**H/L:** _\[through sniffs\]_ OK, Daddy.  
-**Me:** Because if you've got lovely hair we need to comb it to keep it clean. If you don't want to have your hair combed, you'd need to have short hair like me.  
-**H/L:** OK, Daddy, I promise.  
+**H/L:** Ow Daddy! Ow! Ow! It's _hurting_!<br/>
+**Me:** Keep still! I'll be finished soon! _\[combs faster\]_<br/>
+**H/L:** OW-_WUH_! _\[starts crying\]_<br/>
+**Me:** Nearly done. How do you get all this sticky stuff in your hair anyway?<br/>
+**H/L:** _\[tearful\]_ I don't know, Daddy!<br/>
+**L/H:** _\[i.e. sister of the combee\]_ I didn't do it...<br/>
+**Me:** Well girls, if you want to have such lovely hair you've got to keep it away from sticky things, OK?<br/>
+**H/L:** _\[through sniffs\]_ OK, Daddy.<br/>
+**Me:** Because if you've got lovely hair we need to comb it to keep it clean. If you don't want to have your hair combed, you'd need to have short hair like me.<br/>
+**H/L:** OK, Daddy, I promise.<br/>
 **Me:** Good girl. And then there'll be no tears tomorrow.
 
 _\[Repeat on daily basis\]_

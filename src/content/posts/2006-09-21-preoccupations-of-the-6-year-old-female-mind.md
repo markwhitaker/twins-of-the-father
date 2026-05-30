@@ -16,10 +16,10 @@ The girls doodle on their easels after most meals but as you can see the central
 
 I wonder if anyone can answer the following questions:
 
-(a) Which is Hannah's easel and which is Lauren's?  
-(b) Where are the three pictures of me? (Warning: this one's tricky.)  
-(c) How many weddings are depicted?  
-(d) How many women can you count with long hair?  
+(a) Which is Hannah's easel and which is Lauren's?<br/>
+(b) Where are the three pictures of me? (Warning: this one's tricky.)<br/>
+(c) How many weddings are depicted?<br/>
+(d) How many women can you count with long hair?<br/>
 (e) How many high-heeled shoes?
 
 I only know the answers to a, b and c. I'll take your word on d and e. :-)

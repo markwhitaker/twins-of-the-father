@@ -14,8 +14,9 @@ It was some days before I got a chance to have my roll of film developed. (Just 
 
 I returned home and made myself a cup of tea. I took it with me into my study, lit a cigar and peeled open the film developer's envelope. At that precise moment I felt a most unsettling chill run right down my spine, back up again, then back down again. Of course, at the time I thought etc etc.
 
-And then, leafing through the photos I came to this one:  
-![THE GHOST BOY!!](/images/father/ghostboy.jpg)
+And then, leafing through the photos I came to this one:
+
+![THE GHOST BOY!!](../../images/2005-12-01-ghost-boy.jpg)
 
 I need hardly tell you how startled I was by the image of the little boy, pale and ghostly, going the opposite way to everyone else... _DISEMBODIED!!!_
 

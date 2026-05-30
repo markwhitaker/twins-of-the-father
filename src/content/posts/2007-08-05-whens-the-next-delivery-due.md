@@ -10,19 +10,19 @@ draft: false
 
 Two conversations overheard this morning. First, **Before**:
 
-**Lauren _(on toy mobile phone)_:** Hi, is that Hannah?  
-**Hannah _(also on toy mobile phone, about 1 foot away)_:** Yes  
-**Lauren:** Are you a nurse as well?  
-**Hannah:** Yeah, I am actually.  
-**Lauren:** Good, 'cause I need your help. I'm having a baby!  
-**Hannah:** OK. When's it due?  
-_\[Thud of Lauren hitting the floor\]_  
+**Lauren _(on toy mobile phone)_:** Hi, is that Hannah?<br/>
+**Hannah _(also on toy mobile phone, about 1 foot away)_:** Yes<br/>
+**Lauren:** Are you a nurse as well?<br/>
+**Hannah:** Yeah, I am actually.<br/>
+**Lauren:** Good, 'cause I need your help. I'm having a baby!<br/>
+**Hannah:** OK. When's it due?<br/>
+_\[Thud of Lauren hitting the floor\]_<br/>
 **Lauren:** RIGHT NOW!!
 
 And then, **After**:
 
-**Hannah:** There you go, there's your little baby.  
-**Lauren:** Is it a boy or a girl?  
+**Hannah:** There you go, there's your little baby.<br/>
+**Lauren:** Is it a boy or a girl?<br/>
 **Hannah:** Er... well, it's just a baby really.
 
 I'm beginning to doubt this postmistress's obstetric qualifications.

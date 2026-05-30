@@ -12,7 +12,9 @@ Getting dressed for school this morning, Lauren suddenly piped up excitedly: "Da
 
 "What round things?" asked Nicola, perplexed.
 
-"You know, the ones that begin with C?" Another blank look from Nicola. I could see Lauren was beginning to get frustrated.
+"You know, the ones that begin with C?"
+
+Another blank look from Nicola. I could see Lauren was beginning to get frustrated.
 
 "Oh Mummy, you know! The things we had for breakfast!"
 

@@ -32,8 +32,8 @@ _Shriek!_
 
 **Hannah:** But I want to be Darth Vader!
 
-_Simultaneously:_  
-**Lauren:** Mummy, Hannah won't be Barbie!  
+_Simultaneously:_<br/>
+**Lauren:** Mummy, Hannah won't be Barbie!<br/>
 **Hannah:** Daddy, it's _my_ turn to be Darth Vader!
 
 And so on, forever. It's funny how quickly we can be out of bed some days.

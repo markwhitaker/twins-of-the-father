@@ -2,7 +2,7 @@
 title: "My family and other animals"
 date: 2008-01-29
 slug: "my-family-and-other-animals"
-tags: ["\"Getting Dressed\" (ha!)", "Education", "Funny", "Growing up"]
+tags: ["\"Getting Dressed\" (ha!)", "Education", "Funny", "Growing up", "Pictures"]
 draft: false
 ---
 

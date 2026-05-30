@@ -10,4 +10,6 @@ As a Man of a Certain Age, one of the most significant events for me in recent y
 
 So, it was clear the girls needed to be correctly indoctrinated as soon as possible. Well in advance, I alerted them to the fact that the DVDs would be released shortly, and managed to arouse some kind of passing interest, albeit in the arrival of what they called "a new R2-D2 film". Clearly there was no time to lose.
 
-On the day the DVDs arrived I came home as early as I could from work and the girls and I sat down, with an appropriate sense of ceremony, in front of the telly. By about half an hour later, any thought of educational progress had been abandoned and I would happily have chewed my own leg off for just a few hours on my own with my DVDs, my memories, and a kitchen foil tube for a light sabre. [Here's what happened](http://bitrot.net/writing/ohbefore.pdf).
+On the day the DVDs arrived I came home as early as I could from work and the girls and I sat down, with an appropriate sense of ceremony, in front of the telly. By about half an hour later, any thought of educational progress had been abandoned and I would happily have chewed my own leg off for just a few hours on my own with my DVDs, my memories, and a kitchen foil tube for a light sabre.
+
+[Here's what happened](/media/ohbefore.pdf).

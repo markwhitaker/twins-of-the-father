@@ -8,8 +8,8 @@ draft: false
 
 Another overheard conversation from this morning. I'm ashamed to admit I'm not 100% sure who was taking which part, but anyway, here it is.
 
-"One elephant, two elephant, three elephant..."  
-"No, that's seconds. Minutes is like, one......... two......... three........."  
+"One elephant, two elephant, three elephant..."<br/>
+"No, that's seconds. Minutes is like, one......... two......... three........."<br/>
 "Oh yeah, that's right."
 
 They were clocking roughly 3 seconds per minute.
