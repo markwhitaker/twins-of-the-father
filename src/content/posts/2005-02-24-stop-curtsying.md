@@ -2,7 +2,7 @@
 title: "“STOP CURTSYING!”"
 date: 2005-02-24
 slug: "stop-curtsying"
-tags: ["AAARGHH! GET ME OUT OF HERE!!", "Blog News", "Double trouble", "Funny", "Maddening"]
+tags: ["AAARGHH! GET ME OUT OF HERE!!", "Double trouble", "Funny", "Maddening"]
 draft: false
 ---
 
