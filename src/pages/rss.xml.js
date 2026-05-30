@@ -1,5 +1,6 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
+import { getExcerpt } from '../utils/excerpt';
 
 export async function GET(context) {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -11,6 +12,7 @@ export async function GET(context) {
     items: sorted.map(post => ({
       title: post.data.title,
       pubDate: post.data.date,
+      description: getExcerpt(post.body),
       link: `/${post.slug}/`,
     })),
   });
