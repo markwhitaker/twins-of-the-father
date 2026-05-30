@@ -1,0 +1,40 @@
+---
+import { tagSlug } from '../utils/tag-slug';
+
+interface Props {
+  title: string;
+  date: Date;
+  slug: string;
+  tags: string[];
+  excerpt: string;
+}
+
+const { title, date, slug, tags, excerpt } = Astro.props;
+
+const formattedDate = date.toLocaleDateString('en-GB', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+});
+---
+<article class="py-6 border-b border-stone-200 last:border-b-0">
+  <time datetime={date.toISOString()} class="text-sm text-stone-400">{formattedDate}</time>
+  <h2 class="mt-1 text-xl font-semibold">
+    <a href={`/${slug}/`} class="text-stone-800 hover:text-amber-700 transition-colors">
+      {title}
+    </a>
+  </h2>
+  {tags.length > 0 && (
+    <div class="mt-1 flex flex-wrap gap-x-3 gap-y-1">
+      {tags.map(tag => (
+        <a
+          href={`/tags/${tagSlug(tag)}/`}
+          class="text-xs text-stone-400 hover:text-amber-700 transition-colors"
+        >
+          {tag}
+        </a>
+      ))}
+    </div>
+  )}
+  <p class="mt-2 text-stone-600 text-sm leading-relaxed">{excerpt}</p>
+</article>
