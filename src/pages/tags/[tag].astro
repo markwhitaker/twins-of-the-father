@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { tagSlug } from '../../utils/tag-slug';
+import { getExcerpt } from '../../utils/excerpt';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+  const allTags = [...new Set(allPosts.flatMap(post => post.data.tags))];
+  return allTags.map(tag => ({
+    params: { tag: tagSlug(tag) },
+    props: {
+      tag,
+      posts: allPosts
+        .filter(p => p.data.tags.includes(tag))
+        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+---
+<BaseLayout title={`${tag} — Twins of the Father`}>
+  <div class="mt-8">
+    <h1 class="text-2xl font-bold text-stone-900 mb-6">{tag}</h1>
+    {posts.map(post => (
+      <PostCard
+        title={post.data.title}
+        date={post.data.date}
+        slug={post.slug}
+        tags={post.data.tags}
+        excerpt={getExcerpt(post.body)}
+      />
+    ))}
+  </div>
+  <div class="mt-8 pb-8">
+    <a href="/" class="text-sm text-stone-400 hover:text-amber-700 transition-colors">
+      &larr; All posts
+    </a>
+  </div>
+</BaseLayout>
