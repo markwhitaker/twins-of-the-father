@@ -8,6 +8,6 @@ draft: false
 
 This year's April Fools' Day prank:
 
-![1000... would be several too many](http://farm1.static.flickr.com/198/441738525_51d2e37827.jpg)
+![](../../images/2007-04-01-april-fool.jpg)
 
 Unfortunately I forgot to blog it until 2 April. Still... erm... April Fool!

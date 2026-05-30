@@ -2,7 +2,7 @@
 title: "The difference about a witch"
 date: 2007-04-10
 slug: "the-difference-about-a-witch"
-tags: ["Funny", "Maddening", "Trouble with words"]
+tags: ["Funny", "Maddening", "Trouble with words", "Jokes"]
 draft: false
 ---
 

@@ -8,7 +8,7 @@ draft: false
 
 GO!
 
-![Mmmmm is for Milkshake](http://farm3.static.flickr.com/2284/2274708536_f209bbc602.jpg)
+![](../../images/2008-02-18-milkshake.jpg)
 
 Hannah and Lauren are on school holidays this week so today, in a break from preparing to decorate their bedroom pink, we made some milkshake. (Are you perhaps seeing a colour theme developing here?)
 

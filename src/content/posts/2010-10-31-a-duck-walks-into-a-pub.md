@@ -2,7 +2,7 @@
 title: "A duck walks into a pub..."
 date: 2010-10-31
 slug: "a-duck-walks-into-a-pub"
-tags: ["AAARGHH! GET ME OUT OF HERE!!", "Funny"]
+tags: ["AAARGHH! GET ME OUT OF HERE!!", "Funny", "Jokes"]
 draft: false
 ---
 

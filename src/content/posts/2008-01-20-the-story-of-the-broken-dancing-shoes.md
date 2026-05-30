@@ -6,7 +6,7 @@ tags: ["Funny", "Girls will be girls", "Growing up", "Pictures"]
 draft: false
 ---
 
-[![The Story of the Broken Dancing Shoes](http://farm3.static.flickr.com/2241/2206384552_73f93f5df5.jpg)](http://www.flickr.com/photos/bitrot/2206384552/ "The Story of the Broken Dancing Shoes by bitrot, on Flickr")
+![](../../images/2008-01-20-broken-dancing-shoes.jpg)
 
 The King awoke one morning to the sound of great commotion coming from the drawing room beneath his bedchamber.
 

@@ -30,7 +30,7 @@ No, we said. Think about what they give birth to...
 
 I think at this point we gave them the live young vs. eggs thing as a freebie. (It was getting close to school time.) This just left the milk thing.
 
-[![](http://farm1.static.flickr.com/175/480406550_0087c0e7cc_m.jpg)](http://www.flickr.com/photos/nicolawhitaker/480406550/ "Piglets, by nicolawhitaker")"Think about the little piglets we saw at the farm," I suggested.
+"Think about the little piglets we saw at the farm," I suggested.
 
 "It's got something to do with boobies..." hinted Nicola.
 

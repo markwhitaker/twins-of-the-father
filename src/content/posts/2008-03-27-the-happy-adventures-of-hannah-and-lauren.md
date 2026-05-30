@@ -6,6 +6,6 @@ tags: ["Funny", "Growing up", "Video"]
 draft: false
 ---
 
-Sorry the blog's been so dead recently! I thought I'd try and liven it up a bit with this video I put together a few years ago which I've just uploaded to video-sharing site [Vimeo](http://www.vimeo.com/bitrot). I think you'll like it... ;-)
+Sorry the blog's been so dead recently! I thought I'd try and liven it up a bit with this video I put together a few years ago. I think you'll like it... ;-)
 
-[The Happy Adventures of Hannah and Lauren](http://www.vimeo.com/829726/l:embed_829726) from [Mark Whitaker](http://www.vimeo.com/bitrot/l:embed_829726) on [Vimeo](http://vimeo.com/l:embed_829726)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EaHIdeZwuQ4?si=UMhyG9_v2NzZLy1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

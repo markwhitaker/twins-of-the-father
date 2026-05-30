@@ -6,8 +6,14 @@ tags: ["Education", "Pictures"]
 draft: false
 ---
 
-This, as you can undoubtedly tell, is Hannah's sound picture:
+Hannah came home from school the other day with a gold star sticker for "sound pictures". She went on to explain the concept of "sound pictures" with the following example:
 
-[![Hannah's sound picture](http://farm1.static.flickr.com/148/387851368_4983c6c3e0.jpg "Hannah's sound picture")](http://www.flickr.com/photos/bitrot/387851368/)
+![](../../images/2007-02-14-hannah-sound-picture.jpg)
 
-Click on it for the full story!
+From left to right:
+
+1. The thing you want to depict in sound. Hannah chose some high-heeled boots.
+2. The instrument you think might sound most like the object - in this case, wood blocks.
+3. The rhythm the sound would make.
+
+Lauren chipped in to explain that a police siren would look like a wave. :-)

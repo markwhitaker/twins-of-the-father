@@ -6,7 +6,9 @@ tags: ["Funny", "Girls will be girls", "Growing up", "Overheard", "Pictures"]
 draft: false
 ---
 
-[![The Revolutionary Pregnancy Post Office](http://farm2.static.flickr.com/1162/1019003951_02f6241ac7_m.jpg)](http://www.flickr.com/photos/bitrot/1019003951/)Hannah and Lauren established a revolutionary Pregnancy Post Office in our living room today. It's like a normal Post Office, but where the postmistress (Hannah) is also a trained midwife. It's the kind of diversity I feel all Britain's post offices have been crying out for.
+![](../../images/2007-08-05-pregnancy-post-office.jpg)
+
+Hannah and Lauren established a revolutionary Pregnancy Post Office in our living room today. It's like a normal Post Office, but where the postmistress (Hannah) is also a trained midwife. It's the kind of diversity I feel all Britain's post offices have been crying out for.
 
 Two conversations overheard this morning. First, **Before**:
 

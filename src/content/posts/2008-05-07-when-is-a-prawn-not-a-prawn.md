@@ -2,7 +2,7 @@
 title: "When is a prawn not a prawn?"
 date: 2008-05-07
 slug: "when-is-a-prawn-not-a-prawn"
-tags: ["Funny", "Trouble with words"]
+tags: ["Funny", "Trouble with words", "Jokes"]
 draft: false
 ---
 
