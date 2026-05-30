@@ -1,5 +1,5 @@
 ---
-title: "Finally, we&#039;re off!"
+title: "Finally, we're off!"
 date: 2007-07-01
 slug: "finally-were-off"
 tags: ["Growing up", "Pictures"]

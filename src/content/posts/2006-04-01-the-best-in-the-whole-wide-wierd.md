@@ -1,5 +1,5 @@
 ---
-title: "&#8220;The best in the whole wide wierd&#8221;"
+title: "“The best in the whole wide wierd”"
 date: 2006-04-01
 slug: "the-best-in-the-whole-wide-wierd"
 tags: ["Education", "Pictures", "Touching", "Trouble with words"]

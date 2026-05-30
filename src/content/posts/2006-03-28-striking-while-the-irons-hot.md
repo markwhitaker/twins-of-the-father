@@ -1,5 +1,5 @@
 ---
-title: "Striking while the iron&#8217;s hot"
+title: "Striking while the iron’s hot"
 date: 2006-03-28
 slug: "striking-while-the-irons-hot"
 tags: ["AAARGHH! GET ME OUT OF HERE!!", "Education", "Funny", "Maddening"]

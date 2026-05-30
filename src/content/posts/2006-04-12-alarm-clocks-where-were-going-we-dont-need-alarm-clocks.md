@@ -1,5 +1,5 @@
 ---
-title: "Alarm clocks? Where we&#8217;re going we don&#8217;t need alarm clocks!"
+title: "Alarm clocks? Where we’re going we don’t need alarm clocks!"
 date: 2006-04-12
 slug: "alarm-clocks-where-were-going-we-dont-need-alarm-clocks"
 tags: ["AAARGHH! GET ME OUT OF HERE!!", "Funny", "Maddening"]

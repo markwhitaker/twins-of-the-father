@@ -1,5 +1,5 @@
 ---
-title: "When&#039;s the next delivery due?"
+title: "When's the next delivery due?"
 date: 2007-08-05
 slug: "whens-the-next-delivery-due"
 tags: ["Funny", "Girls will be girls", "Growing up", "Overheard", "Pictures"]

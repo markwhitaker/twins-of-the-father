@@ -1,5 +1,5 @@
 ---
-title: "Zosha&#8217;s house"
+title: "Zosha’s house"
 date: 2006-03-06
 slug: "zoshas-house"
 tags: ["Education", "Growing up"]

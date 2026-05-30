@@ -1,5 +1,5 @@
 ---
-title: "&#8220;Daddy, what&#8217;s a pussy wagon?&#8221;"
+title: "“Daddy, what’s a pussy wagon?”"
 date: 2006-10-07
 slug: "daddy-whats-a-pussy-wagon"
 tags: ["Growing up", "Trouble with words"]

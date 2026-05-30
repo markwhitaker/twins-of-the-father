@@ -5,6 +5,7 @@ import {
   buildFilename,
   buildFrontmatter,
   buildMarkdown,
+  decodeEntities,
 } from './migrate-utils.mjs';
 
 describe('getText', () => {
@@ -83,6 +84,19 @@ describe('buildFrontmatter', () => {
       tags: [],
     });
     expect(result).toContain('tags: []');
+  });
+});
+
+describe('decodeEntities', () => {
+  it('decodes numeric HTML entities', () => {
+    expect(decodeEntities('&#8220;Hello&#8221;')).toBe('“Hello”');
+  });
+  it('decodes named entities', () => {
+    expect(decodeEntities('Zosha&amp;s')).toBe('Zosha&s');
+    expect(decodeEntities('&lt;tag&gt;')).toBe('<tag>');
+  });
+  it('leaves plain strings unchanged', () => {
+    expect(decodeEntities('Hello world')).toBe('Hello world');
   });
 });
 

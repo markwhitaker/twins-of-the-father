@@ -1,5 +1,5 @@
 ---
-title: "&#8220;MY BABY HASN&#8217;T GOT FAT EYES!!&#8221;"
+title: "“MY BABY HASN’T GOT FAT EYES!!”"
 date: 2005-03-25
 slug: "my-baby-hasnt-got-fat-eyes"
 tags: ["AAARGHH! GET ME OUT OF HERE!!", "Double trouble", "Funny", "Girls will be girls", "Maddening", "Tech Dad"]

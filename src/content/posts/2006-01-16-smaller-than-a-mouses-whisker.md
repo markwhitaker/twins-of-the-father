@@ -1,5 +1,5 @@
 ---
-title: "Smaller than a mouse&#8217;s whisker"
+title: "Smaller than a mouse’s whisker"
 date: 2006-01-16
 slug: "smaller-than-a-mouses-whisker"
 tags: ["AAARGHH! GET ME OUT OF HERE!!", "Funny", "Overheard"]

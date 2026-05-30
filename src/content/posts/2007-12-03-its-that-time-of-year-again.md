@@ -1,5 +1,5 @@
 ---
-title: "It&#039;s that time of year again"
+title: "It's that time of year again"
 date: 2007-12-03
 slug: "its-that-time-of-year-again"
 tags: ["\"Getting Dressed\" (ha!)", "AAARGHH! GET ME OUT OF HERE!!", "Double trouble", "Maddening"]

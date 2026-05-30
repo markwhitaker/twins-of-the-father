@@ -8,6 +8,7 @@ import {
   buildFilename,
   buildFrontmatter,
   buildMarkdown,
+  decodeEntities,
 } from './migrate-utils.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -39,7 +40,7 @@ for (const item of items) {
   const postType = getText(item['wp:post_type']);
   if (postType !== 'post') { skipped++; continue; }
 
-  const title = getText(item.title);
+  const title = decodeEntities(getText(item.title));
   const slug = getText(item['wp:post_name']);
   const rawDate = getText(item['wp:post_date']);
   const date = rawDate.split(' ')[0];

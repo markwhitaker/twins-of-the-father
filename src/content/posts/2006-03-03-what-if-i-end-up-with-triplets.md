@@ -1,5 +1,5 @@
 ---
-title: "&#8220;What if I end up with triplets?&#8221;"
+title: "“What if I end up with triplets?”"
 date: 2006-03-03
 slug: "what-if-i-end-up-with-triplets"
 tags: ["Pictures"]

@@ -1,5 +1,5 @@
 ---
-title: "Hannah&#8217;s sound picture"
+title: "Hannah’s sound picture"
 date: 2007-02-14
 slug: "hannahs-sound-picture"
 tags: ["Education", "Pictures"]

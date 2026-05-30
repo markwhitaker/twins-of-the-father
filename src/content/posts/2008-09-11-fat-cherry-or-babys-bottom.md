@@ -1,5 +1,5 @@
 ---
-title: "Fat Cherry or Baby&#039;s Bottom?"
+title: "Fat Cherry or Baby's Bottom?"
 date: 2008-09-11
 slug: "fat-cherry-or-babys-bottom"
 tags: ["Funny", "Pictures"]
