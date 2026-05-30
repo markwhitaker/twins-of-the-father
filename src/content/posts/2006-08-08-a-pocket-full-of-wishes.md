@@ -6,7 +6,9 @@ tags: ["Touching"]
 draft: false
 ---
 
-[![A pocket full of wishes](http://static.flickr.com/68/210424188_4408122281_m.jpg)](http://www.flickr.com/photos/bitrot/210424188/ "Click to view bigger on Flickr")This is a picture of Woofy, Hannah's favourite toy. He and Hannah are absolutely inseperable, and at any time of the night you'll usually find them wrapped round each other, fast asleep.
+![](../../images/2006-08-08-woofy.jpg)
+
+This is a picture of Woofy, Hannah's favourite toy. He and Hannah are absolutely inseperable, and at any time of the night you'll usually find them wrapped round each other, fast asleep.
 
 As you can see, Woofy was born with a funny ear that sort of folds inwards, and no amount of fiddling with it can make it go the right way round: it always manages to tuck itself back in again.
 
