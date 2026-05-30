@@ -5,10 +5,9 @@ import Footer from '../components/Footer.astro';
 interface Props {
   title: string;
   description?: string;
-  searchable?: boolean;
 }
 
-const { title, description = "A father's blog about raising twins.", searchable = true } = Astro.props;
+const { title, description = "A father's blog about raising twins." } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 <!doctype html>
@@ -25,7 +24,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Schoolbell&display=swap" rel="stylesheet">
   </head>
-  <body class="bg-rose-50 text-stone-800 min-h-screen flex flex-col" data-pagefind-ignore={!searchable ? "all" : undefined}>
+  <body class="bg-rose-50 text-stone-800 min-h-screen flex flex-col">
     <Header />
     <main class="max-w-2xl mx-auto px-4 w-full flex-1">
       <slot />
