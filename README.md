@@ -3,6 +3,8 @@
 
 An archive of my old blog (2005-2010) on life as an identical twin with small identical twins.
 
+<img src="src/images/mark-and-simon.jpg" width="200"> <img src="src/images/lauren-and-hannah.jpg" width="200"/>
+
 ## Live site
 - [twins.bitrot.net](https://twins.bitrot.net)
 
