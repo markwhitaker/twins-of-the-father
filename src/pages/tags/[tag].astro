@@ -14,7 +14,7 @@ export async function getStaticPaths() {
       tag,
       posts: allPosts
         .filter(p => p.data.tags.includes(tag))
-        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+        .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf()),
     },
   }));
 }
