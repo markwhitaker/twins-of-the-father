@@ -6,7 +6,7 @@ tags: ["AAARGHH! GET ME OUT OF HERE!!", "Funny", "Maddening", "Pictures"]
 draft: false
 ---
 
-Hannah and Lauren have discovered the joys of playing the classic children's game [Guess Who](http://www.argos.co.uk/ProductDisplayTRK019?partNumber=3700864). The trouble is, they've discovered different joys to the rest of us, which turns a game with them into a supreme test of will which would challenge the likes of Florence Nightingale or Nelson Mandela.
+Hannah and Lauren have discovered the joys of playing the classic children's game Guess Who. The trouble is, they've discovered different joys to the rest of us, which turns a game with them into a supreme test of will which would challenge the likes of Florence Nightingale or Nelson Mandela.
 
 For the record, here's how a normal game of Guess Who goes:
 
