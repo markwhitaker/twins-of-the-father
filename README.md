@@ -1,7 +1,7 @@
 # The Twins of the Father
 [![Netlify Status](https://api.netlify.com/api/v1/badges/59a77d3c-5775-4af9-801c-f2a8fd68cad7/deploy-status)](https://app.netlify.com/projects/twins-of-the-father/deploys)
 
-An Astro-based blog for **The Twins of the Father**, with static generation, RSS, search, and a lightweight content model for writing posts in Markdown.
+An archive of my old blog (2005-2010) on life as an identical twin with small identical twins.
 
 ## Live site
 - [twins.bitrot.net](https://twins.bitrot.net)
