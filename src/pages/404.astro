@@ -2,8 +2,10 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 <BaseLayout title="Page not found — The Twins of the Father">
+  <header class="mt-8 mb-8">
+    <h1 class="mt-2 text-3xl font-bold text-stone-900 leading-snug">Page not found</h1>
+  </header>
   <div class="mt-16 text-center">
-    <p class="text-stone-400 text-sm mb-4">Page not found</p>
-    <a href="/" class="text-rose-600 hover:underline text-sm">← Back to all posts</a>
+    <a href="/" class="text-stone-500 hover:text-rose-600 transition-colors">&larr; Back to all posts</a>
   </div>
 </BaseLayout>
