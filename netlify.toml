@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build && pagefind --site dist"
+  command = "npm run build:search"
   publish = "dist"
 
 [build.environment]
