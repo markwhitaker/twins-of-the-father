@@ -63,7 +63,7 @@ Post content here.
 The search page is implemented at `src/pages/search.astro` with Pagefind UI.
 For Netlify, search indexing runs during build via:
 ```bash path=null start=null
-npm run build && npx pagefind@1 --site dist`
+npm run build && npx pagefind@1 --site dist
 ```
 
 If you build locally and want search data generated manually:
