@@ -58,7 +58,7 @@ Post content here.
 ```
 
 ## Search
-The search page is implemented at `src/pages/search.astro` with Pagefind UI.  
+The search page is implemented at `src/pages/search.astro` with Pagefind UI.
 For Netlify, search indexing runs during build via:
 - `npm run build && npx pagefind@1 --site dist`
 
@@ -80,18 +80,6 @@ This repo includes `netlify.toml` with:
 
 The status badge above links to the Netlify deploy history for this site. To create a new Netlify site from this repository, connect the repo in Netlify.
 
-## Migration utility (WordPress XML → Markdown)
-Migration scripts are in `scripts/`:
-- `scripts/migrate.mjs`
-- `scripts/migrate-utils.mjs`
-
-Usage:
-```bash path=null start=null
-node scripts/migrate.mjs /path/to/wordpress-export.xml
-```
-
-Generated posts are written to `src/content/posts/`.
-
 ## Project structure
 ```text path=null start=null
 src/
@@ -100,6 +88,5 @@ src/
   layouts/       # Base and post layouts
   pages/         # Routes (index, post, tags, search, RSS, 404)
   utils/         # Helpers + tests (excerpt, tag slug)
-scripts/         # Migration helpers/tests
 public/          # Static assets
 ```
