@@ -1,0 +1,19 @@
+// .vscode/tasks.json
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Astro: dev with Pagefind",
+      "type": "shell",
+      "command": "npm run dev:search",
+      "isBackground": true,
+      "problemMatcher": [],
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "clear": true
+      }
+    }
+  ]
+}

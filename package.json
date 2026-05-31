@@ -7,7 +7,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
-    "test": "vitest run"
+    "test": "vitest run",
+    "build:search": "npm run build && pagefind --site dist",
+    "dev:search": "npm run build:search && npm run dev"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
@@ -24,6 +26,7 @@
     "@astrojs/check": "^0.9.9",
     "@pagefind/default-ui": "^1.3.0",
     "fast-xml-parser": "^5.8.0",
+    "pagefind": "^1.5.2",
     "turndown": "^7.2.0",
     "typescript": "^6.0.3",
     "vitest": "^4.1.7"
