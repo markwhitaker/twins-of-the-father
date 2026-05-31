@@ -1,6 +1,6 @@
 [build]
-  command = "npm run build && npx pagefind@1 --site dist"
+  command = "npm run build && pagefind --site dist"
   publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "20"
+  NODE_VERSION = "26"
