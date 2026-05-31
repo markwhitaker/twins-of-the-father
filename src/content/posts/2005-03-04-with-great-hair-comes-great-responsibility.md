@@ -6,7 +6,7 @@ tags: ["Girls will be girls", "Maddening"]
 draft: false
 ---
 
-As you can see from the picture on the right, Hannah and Lauren have lovely long blonde hair. Part of my routine every morning is to comb this and tie it back into a pony-tail. (Well, two pony-tails - one each. But I digress.) The purpose of doing so is supposedly to keep their hair clean throughout the rigours of the school day. And yet despite this, the combing process is invariably a tearful one due to the presence of foreign matter in their hair. After years of painstaking analysis I am yet to positively identify the nature of this foreign matter, although I have reduced the list of candidates to the following shortlist: congealed treacle; tree sap; an unidentified school dining hall substance; epoxy resin.
+As you can see from the picture at the top of this blog, Hannah and Lauren have lovely long blonde hair. Part of my routine every morning is to comb this and tie it back into a pony-tail. (Well, two pony-tails - one each. But I digress.) The purpose of doing so is supposedly to keep their hair clean throughout the rigours of the school day. And yet despite this, the combing process is invariably a tearful one due to the presence of foreign matter in their hair. After years of painstaking analysis I am yet to positively identify the nature of this foreign matter, although I have reduced the list of candidates to the following shortlist: congealed treacle; tree sap; an unidentified school dining hall substance; epoxy resin.
 
 Every morning, then, we go through the same basic conversation:
 
