@@ -13,7 +13,7 @@ const posts = allPosts.sort((a, b) => a.data.date.valueOf() - b.data.date.valueO
       <PostCard
         title={post.data.title}
         date={post.data.date}
-        slug={post.slug}
+        slug={post.data.slug}
         tags={post.data.tags}
         excerpt={getExcerpt(post.body)}
       />

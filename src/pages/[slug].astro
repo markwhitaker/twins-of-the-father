@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import PostLayout from '../layouts/PostLayout.astro';
 
 export async function getStaticPaths() {
@@ -7,21 +7,21 @@ export async function getStaticPaths() {
   const posts = allPosts.sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
 
   return posts.map((post, index) => ({
-    params: { slug: post.slug },
+    params: { slug: post.data.slug },
     props: {
       post,
       prevPost: index > 0
-        ? { title: posts[index - 1].data.title, slug: posts[index - 1].slug }
+        ? { title: posts[index - 1].data.title, slug: posts[index - 1].data.slug }
         : undefined,
       nextPost: index < posts.length - 1
-        ? { title: posts[index + 1].data.title, slug: posts[index + 1].slug }
+        ? { title: posts[index + 1].data.title, slug: posts[index + 1].data.slug }
         : undefined,
     },
   }));
 }
 
 const { post, prevPost, nextPost } = Astro.props;
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 <PostLayout
   title={post.data.title}

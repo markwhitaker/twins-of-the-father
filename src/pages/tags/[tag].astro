@@ -28,7 +28,7 @@ const { tag, posts } = Astro.props;
       <PostCard
         title={post.data.title}
         date={post.data.date}
-        slug={post.slug}
+        slug={post.data.slug}
         tags={post.data.tags}
         excerpt={getExcerpt(post.body)}
       />
