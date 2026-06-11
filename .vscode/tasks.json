@@ -4,7 +4,7 @@
     {
       "label": "Astro: dev with Pagefind",
       "type": "shell",
-      "command": "npm run dev:search",
+      "command": "npm run build-dev-search",
       "isBackground": true,
       "problemMatcher": [],
       "group": "build",
@@ -17,7 +17,7 @@
     {
       "label": "Astro: dev (no Pagefind)",
       "type": "shell",
-      "command": "npm run build:dev",
+      "command": "npm run build-dev",
       "isBackground": true,
       "problemMatcher": [],
       "group": "build",

@@ -5,7 +5,7 @@
       "name": "Astro: dev with Pagefind",
       "type": "node-terminal",
       "request": "launch",
-      "command": "npm run dev:search",
+      "command": "npm run build-dev-search",
       "serverReadyAction": {
         "pattern": "Local\\s+(http://localhost:[0-9]+)",
         "uriFormat": "%s",
@@ -16,7 +16,7 @@
       "name": "Astro: dev (no Pagefind)",
       "type": "node-terminal",
       "request": "launch",
-      "command": "npm run build:dev",
+      "command": "npm run build-dev",
       "serverReadyAction": {
         "pattern": "Local\\s+(http://localhost:[0-9]+)",
         "uriFormat": "%s",
